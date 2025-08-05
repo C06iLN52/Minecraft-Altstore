@@ -1,5 +1,5 @@
 {
-  "name": "Provenance EMU",
+  "name": "Minecraft AltStore",
   "identifier": "org.C06iLN52.AltStore",
   "apps": [
     {
@@ -8,7 +8,7 @@
       "developerName": "C06iLN52",
       "version": "1.21.94",
       "versionDate": "2025-08-05T21:04:24+0200",
-      "downloadURL": "http://raw.githubusercontent.com/C06iLN52/Minecraft-Altstore/refs/heads/main/mcpe.ipa",
+      "downloadURL": "https://dl.iosvizor.net/minecraft/Minecraft_v1.21.94_iosvizor_.ipa",
       "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination!",
       "iconURL": "http://raw.githubusercontent.com/C06iLN52/Minecraft-Altstore/refs/heads/main/minecraft.png",
       "tintColor": "#ffffff",
