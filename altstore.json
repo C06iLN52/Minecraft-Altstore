@@ -1,0 +1,26 @@
+{
+  "name": "Provenance EMU",
+  "identifier": "org.C06iLN52.AltStore",
+  "apps": [
+    {
+      "name": "Minecraft: Pocket Edition",
+      "bundleIdentifier": "org.C06iLN52.mcpe",
+      "developerName": "C06iLN52",
+      "version": "1.21.94",
+      "versionDate": "2025-08-05T21:04:24+0200",
+      "downloadURL": "./mcpe.ipa",
+      "localizedDescription": "Dive into an open world of building, crafting and survival. Gather resources, survive the night, and build whatever you can imagine one block at a time. Explore and craft your way through a completely open world where you can play with friends, build a city, start a farm, mine deep into the ground, face mysterious enemies, or just experiment to the limits of your imagination!",
+      "iconURL": "./minecraft.png",
+      "tintColor": "#ffffff",
+      "screenshotURLs": [
+        "./screenshot-1.png",
+        "./screenshot-2.png",
+        "./screenshot-3.png",
+        "./screenshot-4.png",
+        "./screenshot-5.png",
+        "./screenshot-6.png",
+        "./screenshot-7.png"
+      ]
+    }
+  ]
+}
